@@ -76,10 +76,6 @@
 
 ---
 
-## 📌 Featured Project  
-- 🔹 [Real-time Chat App](https://github.com/Prabhagaran2004/Real-time-Chat-App)  
-   ⚡ A full-stack chat application with live messaging & socket.io integration  
-
 ---
 
 
@@ -97,7 +93,6 @@
 
 ## 🎉 Fun Corner  
 - 💭 *“First, solve the problem. Then, write the code.”*  
-- 🧩 Debugging is like being the detective in a crime movie where you are also the murderer 🤯  
 - 🍵 Runs on coffee & curiosity  
 
 ---
