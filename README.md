@@ -82,10 +82,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=Prabhagaran2004&theme=radical&no-frame=true&margin-w=15)
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhagaran2004&show_icons=true&theme=tokyonight)  
