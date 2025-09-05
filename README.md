@@ -1,59 +1,41 @@
-# 👋 Hey, I'm Prabhagaran M  
+# Hi, I'm Prabhagaran M 👋
 
-🚀 **Passionate for Innovation | Full-Stack Developer | Web3 Enthusiast**  
-
----
-
-## 🌟 About Me  
-- 🔍 A boy trying to figure out stuff!!  
-- 🎯 Passionate about building real-world projects and solving problems through code  
-- 💡 Interested in Web3, AI, and scalable web applications  
-- 📚 Currently learning **TypeScript** and diving deeper into **Blockchain Development**  
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Prabhagaran2004&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhagaran2004" /> 
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 About Me
+- 🔭 Passionate for innovation  
+- 🧑‍💻 A boy trying to figure out stuff!!  
+- 🌱 Exploring Blockchain, Web3, and full-stack development  
+
+---
+
+## 🛠️ Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
+      <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
-      <br>Python
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://nodejs.org/static/images/logo.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/en/4/45/Mongodb.png" width="48" height="48" alt="MongoDB" />
+      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
@@ -64,40 +46,32 @@
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <img src="https://www.python.org/static/community_logos/python-logo.png" width="48" height="48" alt="Python" />
+      <br>Python
     </td>
   </tr>
 </table>
 
 ---
 
----
-
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhagaran2004&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhagaran2004&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Prabhagaran2004&theme=tokyonight&hide_border=true)  
+## 📌 Projects
+- [Real-time Chat App](https://github.com/Prabhagaran2004/Real-time-Chat-App)
 
 ---
 
-## 📈 Activity Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prabhagaran2004&theme=tokyo-night)
+## 📊 GitHub Stats
+
+<a href="#stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhagaran2004&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Prabhagaran2004" align="center" />
+</a>
 
 ---
 
-## 🎉 Fun Corner  
-- 💭 *“First, solve the problem. Then, write the code.”*  
-- 🍵 Runs on coffee & curiosity  
-
----
-
-## 📫 Connect with Me  
-- 📧 Email: **p6292293@gmail.com**  
+## 📫 Contact Me
+- 📧 Email: p6292293@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/prabhagaran-m-0235a7257)  
 - 🐦 [Twitter](https://x.com/username_prabha)  
+
+---
+
+⭐️ _"Code is like humor. When you have to explain it, it’s bad."_  
